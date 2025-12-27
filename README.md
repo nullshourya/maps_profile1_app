@@ -31,5 +31,5 @@ flutter run
 
 ## Screenshots
 ![Profile Screen](assets/images/profile.png)
-![Map Screen](https://github.com/nullshourya/maps_profile1_app/blob/main/assets/images/maps.png)
+![Map Screen](assets/images/maps.png)
 
