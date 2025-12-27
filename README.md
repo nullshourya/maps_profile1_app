@@ -30,6 +30,6 @@ flutter pub get
 flutter run
 
 ## Screenshots
-![Profile Screen](assets/profile.png)
-![Map Screen](assets/maps.png)
+![Profile Screen](assets/images/profile.png)
+![Map Screen](https://github.com/nullshourya/maps_profile1_app/blob/main/assets/images/maps.png)
 
