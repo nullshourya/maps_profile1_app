@@ -36,6 +36,4 @@ flutter run
 <img width="1080" height="2092" alt="maps" src="https://github.com/user-attachments/assets/e017fa3f-a293-4bb5-b85e-4df5ec3e1ef7" />
 
 
-![Profile Screen](https://raw.githubusercontent.com/nullshourya/maps_profile1_app/main/assets/images/profile.png)
-![Map Screen](https://raw.githubusercontent.com/nullshourya/maps_profile1_app/main/assets/images/maps.png)
 
