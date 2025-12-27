@@ -29,4 +29,7 @@ The application consists of multiple UI screens such as a map-based home screen 
 flutter pub get
 flutter run
 
+## Screenshots
+![Profile Screen](assets/screenshots/profile.png)
+![Map Screen](assets/screenshots/maps.png)
 
