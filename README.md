@@ -31,7 +31,7 @@ flutter run
 
 
 ```
-### screenshots
+### app preview
 <img width="1080" height="2092" alt="profile1" src="https://github.com/user-attachments/assets/4d3f71ad-b6a3-4d19-83ec-c555e1232cbb" />
 <img width="1080" height="2092" alt="maps" src="https://github.com/user-attachments/assets/e017fa3f-a293-4bb5-b85e-4df5ec3e1ef7" />
 
